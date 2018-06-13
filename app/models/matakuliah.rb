@@ -1,0 +1,2 @@
+class Matakuliah < ApplicationRecord
+end
